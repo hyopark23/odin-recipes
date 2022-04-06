@@ -1,4 +1,4 @@
-The Odin Project
-Foundations - PROJECT: RECIPES
+# The Odin Project
+## Foundations - PROJECT: RECIPES
 
-First project of TOP to incorporate the HTML knowledge gained so far. 
+First project of TOP to incorporate HTML knowledge gained so far. 
